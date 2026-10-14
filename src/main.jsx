@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
-  <StrictMode base="/todo-zustand/">
+  <StrictMode>
     <App />
   </StrictMode>,
 )

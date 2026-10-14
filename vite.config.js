@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
-  base: '/todo-zustand/'
+  // base: '/todo-zustand/'
 })
